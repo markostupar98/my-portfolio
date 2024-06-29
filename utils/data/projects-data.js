@@ -6,9 +6,9 @@ import ayla from "/public/image/ayla.jpg";
 export const projectsData = [
   {
     id: 1,
-    name: "App Like Trello",
+    name: "Task Master",
     description:
-      "App like trello is a robust project management application inspired by Trello. It allows users to create and manage boards, lists, and cards to organize their tasks efficiently. The app supports drag-and-drop functionality for seamless task prioritization and movement. TaskMaster includes features such as real-time collaboration, user authentication, and customizable board backgrounds. Built with a focus on user experience, it provides an intuitive and visually appealing interface for teams and individuals to track their project progress and stay organized.",
+      "Task master is a robust project management application inspired by Trello. It allows users to create and manage boards, lists, and cards to organize their tasks efficiently. The app supports drag-and-drop functionality for seamless task prioritization and movement. TaskMaster includes features such as real-time collaboration, user authentication, and customizable board backgrounds. Built with a focus on user experience, it provides an intuitive and visually appealing interface for teams and individuals to track their project progress and stay organized.",
     tools: [
       "Express",
       "MongoDB",
@@ -28,9 +28,9 @@ export const projectsData = [
   },
   {
     id: 2,
-    name: "App Like Messenger",
+    name: "ChatterBox",
     description:
-      "App like messenger is a comprehensive messenger application designed to facilitate instant communication between users. This clone of popular messaging apps features real-time text messaging, user presence indicators, and group chat capabilities. ChatHub offers a smooth and responsive interface with support for media sharing, including images and videos. The app incorporates user authentication and encryption to ensure secure and private conversations. Built with modern web technologies, ChatHub provides a reliable platform for personal and professional communication.",
+      "ChatterBox is a comprehensive messenger application designed to facilitate instant communication between users. This clone of popular messaging apps features real-time text messaging, user presence indicators, and group chat capabilities. ChatHub offers a smooth and responsive interface with support for media sharing, including images and videos. The app incorporates user authentication and encryption to ensure secure and private conversations. Built with modern web technologies, ChatHub provides a reliable platform for personal and professional communication.",
     tools: [
       "NextJS",
       "Tailwind CSS",
@@ -48,9 +48,9 @@ export const projectsData = [
   },
   {
     id: 3,
-    name: "App like glovo",
+    name: "FoodieGo",
     description:
-      "App like glovo is a feature-rich food delivery application developed with React Native. The app provides users with a seamless experience to browse and order from a wide variety of restaurants. Key features include dynamic calculation of delivery costs and estimated delivery times based on real-time data, GPS tracking for order delivery, and push notifications for order updates. FastFoodExpress supports multiple payment methods, user authentication, and a user-friendly interface for easy navigation. The app is designed to handle high traffic and ensure fast and reliable performance, making it an essential tool for food lovers looking for quick and convenient meal deliveries",
+      "FoodieGo is a feature-rich food delivery application developed with React Native. The app provides users with a seamless experience to browse and order from a wide variety of restaurants. Key features include dynamic calculation of delivery costs and estimated delivery times based on real-time data, GPS tracking for order delivery, and push notifications for order updates. FastFoodExpress supports multiple payment methods, user authentication, and a user-friendly interface for easy navigation. The app is designed to handle high traffic and ensure fast and reliable performance, making it an essential tool for food lovers looking for quick and convenient meal deliveries",
     tools: [
       "React",
       "Bootstrap",
@@ -65,7 +65,7 @@ export const projectsData = [
       "Cronjob",
       "JWT",
     ],
-    code: "https://github.com/markostupar98/app-like-glovo",
+    code: "https://github.com/markostupar98/foodie",
     demo: "",
     image: realEstate,
   },
