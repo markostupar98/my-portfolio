@@ -16,7 +16,6 @@ export const skillsData = [
   // 'Go',
   // 'Figma',
   "Supabase",
-  "ShadnCN",
   // 'Nginx',
   // 'Strapi'
 ];

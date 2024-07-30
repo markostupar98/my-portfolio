@@ -8,12 +8,7 @@ export const personalData = {
   phone: "+387 65 044 447",
   address: "Banja Luka, Bosnia and Herzegovina",
   github: "https://github.com/markostupar98",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  linkedIn: "https://www.linkedin.com/in/marko-stupar-7a5a65312/",
   resume:
     "https://docs.google.com/document/d/e/2PACX-1vRKia9zXvKTuQjA8pIz4mN2LIf5MDRG05oIMZvXq1z4KJLhi9qLPolLJyJ6zZ8JGDKQkOPk29beohFx/pub",
 };
