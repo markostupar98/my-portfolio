@@ -48,11 +48,11 @@ function ProjectCard({ project }) {
             ))}
             <span className="text-gray-400">{"],"}</span>
           </div>
-          <Link href="https://github.com/markostupar98/app-like-trello">
+          {/* <Link href="https://github.com/markostupar98/app-like-trello">
             <span className="ml-4 lg:ml-8 mr-2 text-white">Code:</span>
             <span className="text-orange-400">{project.code}</span>
             <span className="text-gray-400">,</span>
-          </Link>
+          </Link> */}
           <div className="ml-4 lg:ml-8 mr-2">
             <span className="text-white">Description:</span>
             <span className="text-cyan-400">{" " + project.description}</span>
